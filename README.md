@@ -4,6 +4,7 @@
 
 ## Compétences Actuelles et Outils
 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)

@@ -1,8 +1,10 @@
 ## Salut ici 👋
+![]https://raw.githubusercontent.com/SylexYTB/SylexYTB/refs/heads/main/mon%20header.png
 Je suis Nourredine un débutant dans le milieu du developpement !
 Actuellement étudiant à UTT-LOKO
 
-##Compétences Actuelles et Outils
+## Compétences Actuelles et Outils
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -12,6 +14,11 @@ Actuellement étudiant à UTT-LOKO
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
+## Statistiques
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sylexytb&show_icons=true&count_private=true&theme=catppuccin_latte" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylexytb&layout=compact&count_private=true&theme=catppuccin_latte" />
 <!--
 **SylexYTB/SylexYTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

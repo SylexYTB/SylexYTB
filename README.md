@@ -1,8 +1,8 @@
-## Coucou 👋, je suis Nourredine
+## Coucou 👋
 ![](https://raw.githubusercontent.com/SylexYTB/SylexYTB/refs/heads/main/mon%20header.png)
 
 ## Info 📃
-Juste moi, un débutant sans le milieu du développement
+Juste moi, un débutant dans le milieu du développement
 
 ## Compétences Actuelles et Outils 🧰
 

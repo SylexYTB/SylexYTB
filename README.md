@@ -1,8 +1,10 @@
 ## Coucou 👋, je suis Nourredine
 ![](https://raw.githubusercontent.com/SylexYTB/SylexYTB/refs/heads/main/mon%20header.png)
 
+##Info 📃
+Juste moi, un débutant sans le milieu du développement
 
-## Compétences Actuelles et Outils
+## Compétences Actuelles et Outils 🧰
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
@@ -15,7 +17,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-## Statistiques
+## Statistiques📊
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sylexytb&show_icons=true&count_private=true&theme=catppuccin_latte" />
 
